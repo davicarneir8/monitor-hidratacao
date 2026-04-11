@@ -1,5 +1,6 @@
 #  Monitor de Hidratação (CLI)
 
+**Versão:** 1.0.0
 
 ## O Problema
 Muitas pessoas (especialmente idosos e profissionais em trabalho focado) esquecem de beber água durante o dia, o que pode causar desidratação, dores de cabeça e fadiga.
