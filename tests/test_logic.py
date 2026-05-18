@@ -1,7 +1,10 @@
 import pytest
-from src.logic import adicionar_agua, verificar_meta
+import sys
+sys.path.insert(0, './src')
 
-# 1. Caminho Feliz
+from logic import adicionar_agua, verificar_meta
+
+# 1. Caminho Certo
 def test_adicionar_agua_corretamente():
     assert adicionar_agua(1000, 500) == 1500
 
