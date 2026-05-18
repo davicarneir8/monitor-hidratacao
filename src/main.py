@@ -1,5 +1,5 @@
 import sys
-from logic import adicionar_agua, verificar_meta
+from logic import adicionar_agua, verificar_meta, buscar_dica_motivacional
 
 def main():
     meta = 2000 # Meta de 2 litros
